@@ -1,0 +1,8 @@
+[
+  { "username": "reseller1", "password": "resellerpass", "role": "reseller" },
+  { "username": "pt1", "password": "ptpass", "role": "pt" },
+  { "username": "mod1", "password": "modpass", "role": "mod" },
+  { "username": "ceo1", "password": "ceopass", "role": "ceo" },
+  { "username": "owner1", "password": "ownerpass", "role": "owner" },
+  { "username": "dev", "password": "devpass", "role": "developer" }
+]
